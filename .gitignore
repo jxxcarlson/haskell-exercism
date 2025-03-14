@@ -1,0 +1,8 @@
+**/*.hi
+**/*.o
+**/.stack-work/*
+**/.exercism/*
+**/.vscode/*
+**/hello-world.cabal
+**/stack.yaml.lock
+
